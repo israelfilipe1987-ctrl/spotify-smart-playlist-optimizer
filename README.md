@@ -2,7 +2,9 @@
 
 > **End-to-End Data Engineering Pipeline and Content-Based Recommendation Engine.**
 
-📌 [🔗 Click here to view the Project Presentation Slide Deck](https://github.com/israelfilipe1987-ctrl/spotify-smart-playlist-optimizer/blob/main/presentation/spotify_smart_playlist_optimizer_sql_engine.pdf)
+📌 [🔗 Click here to view the Project Presentation Slide Deck](https://github.com/israelfilipe1987-ctrl/spotify-smart-playlist-optimizer/raw/main/presentation/spotify_smart_playlist_optimizer_sql_engine.pdf)
+
+📊 [🔗 Click here to view the Live Interactive Plotly Dashboard](https://gandatg.github.io/spotify_smart_playlist_optimizer/)
 
 ---
 
