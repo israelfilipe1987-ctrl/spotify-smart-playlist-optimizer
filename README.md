@@ -1,10 +1,12 @@
-# Spotify Smart Playlist Optimizer
+# 🎵 Spotify Smart Playlist Optimizer
 
-> End-to-End Data Engineering Pipeline and Content-Based Recommendation Engine.
+> **End-to-End Data Engineering Pipeline and Content-Based Recommendation Engine.**
+
+📌 [🔗 Click here to view the Project Presentation Slide Deck]([COLOQUE_SEU_LINK_AQUI](https://github.com/israelfilipe1987-ctrl/spotify-smart-playlist-optimizer/blob/main/presentation/spotify_smart_playlist_optimizer_sql_engine.pdf))
 
 ---
 
-## 1. Project Overview & Business Problem
+## 📌 1. Project Overview & Business Problem
 Treating millions of distinct musical tracks as a flat, unindexed library leads to high search friction and session drop-offs. This project implements a production-grade relational pipeline to clean and index global tracks, utilizing a mathematical vector space engine to instantly generate context-aware smart playlists.
 
 ### Core Framework:
